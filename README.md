@@ -17,4 +17,8 @@ Folder frontend_react :
    a. CoursesCreate : post form untuk memasukkan data courses
    b. Courseslist : menampilkan data di tabel courses dengan API
 
+Cara run website :
+frontend : install terlebih dahulu NPM dengan cara "npm install" kemudian gunakan sintak "npm start" untuk running website frontend
+backend : gunakan sintak "php artisan serve" untuk running backend dan frontend dapan consume API
+
 Karena keterbatasan waktu dan belum familiar dengan react.js maka, hanya ini yang bisa saya tampilkan
