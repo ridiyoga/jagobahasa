@@ -6,3 +6,6 @@ folder jagobahasa-api:
    b. courses : untuk menyimpan data courses
    c. materials : menyimpan data materials
 3. Controler berisi controller untuk fungsi CRUD masing-masing tabel antara lain :
+   a. UserController : terdapat CRUD untuk tabel user, tidak ada function destroy karena saya menggunakan function update status untuk merubah status data, hal yang sama berlaku pada controller-controller lain, di                         dalam controller ini juga terdapat function login untuk login ke halaman berikutnya
+   b. CoursesController : berisi function CRUD untuk tabel courses
+   c. MaterialsController : berisi function CRUD untuk tabel Materials
