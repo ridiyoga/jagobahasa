@@ -1,4 +1,4 @@
-Folder terdapat dua buah folder dalam repositori ini yakni folder "jagobahasa-api" untuk back-end dan folder "jagobahasa" untuk front-end
+Folder terdapat dua buah folder dalam repositori ini yakni folder "jagobahasa-api" untuk back-end dan folder "frontend_react" untuk front-end
 
 folder jagobahasa-api:
 1. .env : sebuah folder yang menghubungkan database dengan back-end
@@ -11,3 +11,10 @@ folder jagobahasa-api:
    b. CoursesController : berisi function CRUD untuk tabel courses
    c. MaterialsController : berisi function CRUD untuk tabel Materials
 4. Models : Berisi model-model untuk menghubungkan antara tabel dengan controller, yakni model users, courses, dan materials
+
+Folder frontend_react :
+1. dalam folder src/pages/kursus terdapat dua buah folder
+   a. CoursesCreate : post form untuk memasukkan data courses
+   b. Courseslist : menampilkan data di tabel courses dengan API
+
+Karena keterbatasan waktu dan belum familiar dengan react.js maka, hanya ini yang bisa saya tampilkan
