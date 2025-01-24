@@ -1,4 +1,5 @@
 Folder terdapat dua buah folder dalam repositori ini yakni folder "jagobahasa-api" untuk back-end dan folder "jagobahasa" untuk front-end
+
 folder jagobahasa-api:
 1. .env : sebuah folder yang menghubungkan database dengan back-end
 2. migration : berisi tabel-tabel yang digunakan untuk mengolah data yang akan ditampilkan antara lain :
